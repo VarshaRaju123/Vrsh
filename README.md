@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varsharaju123" alt="varsharaju123" /></a> </p>
 
-- 🔭 I’m currently working on **AZURE Self Service portal**
+- 🔭 I’m currently working on **Infosys Limited**
 
 - 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Various Projects**
 
-- 💬 Ask me about **Vue.js Javascript Angular**
+- 💬 Ask me about **Vue.js Javascript Angular REACT**
 
 - 📫 How to reach me **varsharaju123@gmail.com**
 
